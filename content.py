@@ -117,7 +117,6 @@ CHALLENGES = [
     ("Integrating the TMDB API", "Tested requests on their own before joining the GUI"),
     ("Showing posters without freezing the window", "Pillow for images and threading for background loading"),
     ("Internet or API failures", "Clear error messages for no results and network errors"),
-    ("Limited development time", "Core features first: login, search, details, watchlist"),
 ]
 
 TESTS = [
